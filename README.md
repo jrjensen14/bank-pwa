@@ -18,8 +18,7 @@ add functionality to an existing budget tracker application to allow for offline
 
 ## Website
 
-https://mighty-falls-97052.herokuapp.com/
-
+https://limitless-shelf-69548.herokuapp.com
 ---
 
 ## Built With
